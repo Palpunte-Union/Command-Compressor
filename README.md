@@ -1,10 +1,15 @@
 ![Logo](https://raw.githubusercontent.com/Palpunte-Union/Default/master/resources/icon.png)
 # Command Compressor
  どうも、私です。
+ <br>
  久しぶりの.NET(半年ぶり)
+ <br>
  久しぶりのC#(2年ぶり)
+ <br>
  なんもわからん
+ <br>
  というわけでリハビリにと作ったのがこちら
+ <br>
  1.13以降のコマンドをまとめて1個のコマンドにして圧縮してくれる。
 
 ## Caution!!
