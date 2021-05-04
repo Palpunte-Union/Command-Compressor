@@ -15,7 +15,7 @@
 ## Caution!!
   - 作成者 : eight_y_88 / ぱるぷんて連合
     - Twitter : [@Palpunte_Union](https://twitter.com/Palpunte_Union)
-  - 配布元URL : [https://github.com/Palpunte-Union/RepositoryAAAAAA](https://github.com/Palpunte-Union/RepositoryAAAAA)
+  - 配布元URL : [https://github.com/Palpunte-Union/Command-Compressor](https://github.com/Palpunte-Union/Command-Compressor)
 
 ## How To Build
  - 基本的にReleaseから落としてください。
